@@ -1,8 +1,11 @@
+import Base from './components/Base'
 import "./styles/global.scss"
 
 const App = () => {
   return (
-    <div>Home</div>
+    <Base>
+      <h1>Home</h1>
+    </Base>
   )
 }
 
