@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+        "correct_answer": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+        "incorrect_answers": [
+          "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+          "Tem 10 litros. São retirados 2 litros",
+          "Tem 7 litros. São retirados 1,5 litros"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "De quem é a famosa frase “Penso, logo existo”?",
+        "correct_answer": "Descartes",
+        "incorrect_answers": [
+          "Platão",
+          "Sócrates",
+          "Galileu Galilei"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "De onde é a invenção do chuveiro elétrico?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": [
+          "França",
+          "Inglaterra",
+          "Angola"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "Quais o menor e o maior país do mundo?",
+        "correct_answer": "Vaticano e Rússia",
+        "incorrect_answers": [
+          "Nauru e China",
+          "Malta e Estados Unidos",
+          "Mônaco e Canadá"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "média",
+        "question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+        "correct_answer": " João Goulart",
+        "incorrect_answers": [
+          "João Figueiredo",
+          "Getúlio Vargas",
+          "Jacinto Anjos"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "díficil",
+        "question": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+        "correct_answer": "Asterisco, beneficente, meteorologia, entretido",
+        "incorrect_answers": [
+          "Asterístico, beneficiente, meteorologia, entertido",
+          "Asterístico, beneficiente, metereologia, entretido",
+          "Asterisco, beneficiente, metereologia, entretido"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+        "correct_answer": "Dom Quixote",
+        "incorrect_answers": [
+          "Senhor dos Anéis",
+          "O Pequeno Príncipe",
+          "Um conto de duas Cidades"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "Quantas casas decimais tem o número pi?",
+        "correct_answer": "Infinitas",
+        "incorrect_answers": [
+          "Centenas",
+          "Milhares",
+          "Vinte"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+        "correct_answer": "Japão e Serra Leoa",
+        "incorrect_answers": [
+          "Austrália e Afeganistão",
+          "Angola e Portugal",
+          "Estados Unidos e Congo"
+        ]
+      },
+      {
+        "category": "Geral",
+        "type": "multiplas",
+        "difficulty": "fácil",
+        "question": "Em qual local da Ásia o português é língua oficial?",
+        "correct_answer": "Macau",
+        "incorrect_answers": [
+          "Índia",
+          "Filipinas",
+          "Portugal"
+        ]
+      }
+]
