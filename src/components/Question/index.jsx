@@ -16,7 +16,7 @@ import './styles.scss';
 
 const useStyles = makeStyles({
   root: {
-    width: 1240,
+    width: 1250,
     minHeight: 350,
     maxHeight: 400,
     textAlign: 'left',
