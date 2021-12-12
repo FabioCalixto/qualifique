@@ -54,7 +54,7 @@ class Home extends Component {
         return (
             <div className="wrapper">
                 <h1>Seja bem-vindo à Qualifique</h1>
-                <p>Aprenda tudo sobre programação, respondendo as perguntas abaixo e some o máximo de pontos possíveis.</p>
+                <p>Qualifique-se respondendo as seguintes questões:</p>
             <div className="question-panel">
                 {this.state.current_question !== null ?
                     <QuestionPanel 
