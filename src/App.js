@@ -1,3 +1,5 @@
+import "./styles/global.scss"
+
 const App = () => {
   return (
     <div>Home</div>
