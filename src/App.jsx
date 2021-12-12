@@ -1,10 +1,14 @@
 import Base from './components/Base'
+import Home from './components/Home'
+
 import "./styles/global.scss"
 
 const App = () => {
   return (
     <Base>
-      <h1>Home</h1>
+      <div className="container">
+        <Home />
+      </div>
     </Base>
   )
 }
